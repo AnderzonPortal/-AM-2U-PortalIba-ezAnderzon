@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estilo para el TextInputLayout -->
+    <style name="Gaming.TextInputLayout.OutlinedBox" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/gaming_accent</item>
+        <item name="boxStrokeWidth">2dp</item>
+        <item name="hintTextColor">@color/gaming_text_hint</item>
+        <item name="startIconTint">@color/gaming_icon_primary</item>
+        <item name="endIconTint">@color/gaming_icon_primary</item>
+    </style>
+
+    <!-- Estilo para el FAB -->
+    <style name="Gaming.FloatingActionButton" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="backgroundTint">@color/gaming_accent</item>
+        <item name="tint">@android:color/white</item>
+        <item name="rippleColor">@color/gaming_ripple</item>
+    </style>
+
+</resources>
