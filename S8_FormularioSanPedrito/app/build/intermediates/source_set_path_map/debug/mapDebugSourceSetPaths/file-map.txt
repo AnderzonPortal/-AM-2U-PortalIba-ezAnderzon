@@ -1,0 +1,38 @@
+com.example.s8_formulariosanpedrito.app-lifecycle-process-2.6.2-0 C:\Users\ander\.gradle\caches\8.11.1\transforms\0099250d663c3c27c2238d7b959b2ea5\transformed\lifecycle-process-2.6.2\res
+com.example.s8_formulariosanpedrito.app-recyclerview-1.1.0-1 C:\Users\ander\.gradle\caches\8.11.1\transforms\104281eea8eac08b25a946917fdda902\transformed\recyclerview-1.1.0\res
+com.example.s8_formulariosanpedrito.app-annotation-experimental-1.4.1-2 C:\Users\ander\.gradle\caches\8.11.1\transforms\1cbf9af07f7339f1a2e6f872d6b2af1d\transformed\annotation-experimental-1.4.1\res
+com.example.s8_formulariosanpedrito.app-lifecycle-livedata-2.6.2-3 C:\Users\ander\.gradle\caches\8.11.1\transforms\2a097f71d1855f076dff759cb8163790\transformed\lifecycle-livedata-2.6.2\res
+com.example.s8_formulariosanpedrito.app-emoji2-views-helper-1.3.0-4 C:\Users\ander\.gradle\caches\8.11.1\transforms\2a96dfcbe614055ed4977babee9acf5d\transformed\emoji2-views-helper-1.3.0\res
+com.example.s8_formulariosanpedrito.app-drawerlayout-1.1.1-5 C:\Users\ander\.gradle\caches\8.11.1\transforms\2b9d4755528e4e2cfb5d6965b4ade0b7\transformed\drawerlayout-1.1.1\res
+com.example.s8_formulariosanpedrito.app-lifecycle-livedata-core-2.6.2-6 C:\Users\ander\.gradle\caches\8.11.1\transforms\2dd076d9b1e3b429e0b013b2db214b8b\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.s8_formulariosanpedrito.app-profileinstaller-1.4.0-7 C:\Users\ander\.gradle\caches\8.11.1\transforms\2e7246805d870748aa42aa53f1e7e083\transformed\profileinstaller-1.4.0\res
+com.example.s8_formulariosanpedrito.app-appcompat-resources-1.7.0-8 C:\Users\ander\.gradle\caches\8.11.1\transforms\3271adabf612fb778519e8df60c1db39\transformed\appcompat-resources-1.7.0\res
+com.example.s8_formulariosanpedrito.app-material-1.12.0-9 C:\Users\ander\.gradle\caches\8.11.1\transforms\3e405cc52aa3f5dfcf568d9835951ea1\transformed\material-1.12.0\res
+com.example.s8_formulariosanpedrito.app-savedstate-1.2.1-10 C:\Users\ander\.gradle\caches\8.11.1\transforms\4061880d00af6b1f693b21859a4cbee8\transformed\savedstate-1.2.1\res
+com.example.s8_formulariosanpedrito.app-cardview-1.0.0-11 C:\Users\ander\.gradle\caches\8.11.1\transforms\47d7f12f23ad8af9e409a6745dc23b89\transformed\cardview-1.0.0\res
+com.example.s8_formulariosanpedrito.app-emoji2-1.3.0-12 C:\Users\ander\.gradle\caches\8.11.1\transforms\5a7c66142de3649c5a08783bd4fa19a0\transformed\emoji2-1.3.0\res
+com.example.s8_formulariosanpedrito.app-transition-1.5.0-13 C:\Users\ander\.gradle\caches\8.11.1\transforms\754117b56ad10c26d3dfc02ab0d2a845\transformed\transition-1.5.0\res
+com.example.s8_formulariosanpedrito.app-core-ktx-1.16.0-14 C:\Users\ander\.gradle\caches\8.11.1\transforms\7cec869da49c444b477da7275ec0807e\transformed\core-ktx-1.16.0\res
+com.example.s8_formulariosanpedrito.app-tracing-1.2.0-15 C:\Users\ander\.gradle\caches\8.11.1\transforms\8cff545aad04483ee59e62f753a51365\transformed\tracing-1.2.0\res
+com.example.s8_formulariosanpedrito.app-coordinatorlayout-1.1.0-16 C:\Users\ander\.gradle\caches\8.11.1\transforms\92231778ec1a7d300a02f328e3b220b8\transformed\coordinatorlayout-1.1.0\res
+com.example.s8_formulariosanpedrito.app-fragment-1.5.4-17 C:\Users\ander\.gradle\caches\8.11.1\transforms\93272c5821028cdea820c7ba01fa7126\transformed\fragment-1.5.4\res
+com.example.s8_formulariosanpedrito.app-lifecycle-viewmodel-2.6.2-18 C:\Users\ander\.gradle\caches\8.11.1\transforms\9cc000648ebb4efe7605fca370bcd871\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.s8_formulariosanpedrito.app-activity-1.10.1-19 C:\Users\ander\.gradle\caches\8.11.1\transforms\aa2598c1514a21a073661aeaf1707301\transformed\activity-1.10.1\res
+com.example.s8_formulariosanpedrito.app-constraintlayout-2.2.1-20 C:\Users\ander\.gradle\caches\8.11.1\transforms\b073a48e6283c91913716c4ebadda451\transformed\constraintlayout-2.2.1\res
+com.example.s8_formulariosanpedrito.app-viewpager2-1.0.0-21 C:\Users\ander\.gradle\caches\8.11.1\transforms\c097803cb6c67885714fd2eb3055f9f6\transformed\viewpager2-1.0.0\res
+com.example.s8_formulariosanpedrito.app-lifecycle-runtime-2.6.2-22 C:\Users\ander\.gradle\caches\8.11.1\transforms\c0e6dadcb44fee004663c0ad3046be1d\transformed\lifecycle-runtime-2.6.2\res
+com.example.s8_formulariosanpedrito.app-core-1.16.0-23 C:\Users\ander\.gradle\caches\8.11.1\transforms\c873febaaf7463a32dd0b74f462c9a57\transformed\core-1.16.0\res
+com.example.s8_formulariosanpedrito.app-firebase-common-21.0.0-24 C:\Users\ander\.gradle\caches\8.11.1\transforms\cf8e0df716b92509b6953592706fea1b\transformed\firebase-common-21.0.0\res
+com.example.s8_formulariosanpedrito.app-core-viewtree-1.0.0-25 C:\Users\ander\.gradle\caches\8.11.1\transforms\d4e184784f5cfbc6f3d445509cd53114\transformed\core-viewtree-1.0.0\res
+com.example.s8_formulariosanpedrito.app-play-services-basement-18.3.0-26 C:\Users\ander\.gradle\caches\8.11.1\transforms\dc83d9bdd3ff75f143fb3c507ff81dfe\transformed\play-services-basement-18.3.0\res
+com.example.s8_formulariosanpedrito.app-startup-runtime-1.1.1-27 C:\Users\ander\.gradle\caches\8.11.1\transforms\dcd98affad6d65aa30ef38c04b0063d7\transformed\startup-runtime-1.1.1\res
+com.example.s8_formulariosanpedrito.app-appcompat-1.7.0-28 C:\Users\ander\.gradle\caches\8.11.1\transforms\dddc10123cb53f0bd35cc4453eabf80e\transformed\appcompat-1.7.0\res
+com.example.s8_formulariosanpedrito.app-lifecycle-viewmodel-savedstate-2.6.2-29 C:\Users\ander\.gradle\caches\8.11.1\transforms\de44c8223bbd50e72536ad4a393d15d0\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.s8_formulariosanpedrito.app-core-runtime-2.2.0-30 C:\Users\ander\.gradle\caches\8.11.1\transforms\edf6cb1b9b74fe2957950e56af141c0c\transformed\core-runtime-2.2.0\res
+com.example.s8_formulariosanpedrito.app-pngs-31 E:\CICLO IX\APLICACIONES MOVILES\S8_FormularioSanPedrito\app\build\generated\res\pngs\debug
+com.example.s8_formulariosanpedrito.app-resValues-32 E:\CICLO IX\APLICACIONES MOVILES\S8_FormularioSanPedrito\app\build\generated\res\resValues\debug
+com.example.s8_formulariosanpedrito.app-packageDebugResources-33 E:\CICLO IX\APLICACIONES MOVILES\S8_FormularioSanPedrito\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.s8_formulariosanpedrito.app-packageDebugResources-34 E:\CICLO IX\APLICACIONES MOVILES\S8_FormularioSanPedrito\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.s8_formulariosanpedrito.app-debug-35 E:\CICLO IX\APLICACIONES MOVILES\S8_FormularioSanPedrito\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.s8_formulariosanpedrito.app-debug-36 E:\CICLO IX\APLICACIONES MOVILES\S8_FormularioSanPedrito\app\src\debug\res
+com.example.s8_formulariosanpedrito.app-main-37 E:\CICLO IX\APLICACIONES MOVILES\S8_FormularioSanPedrito\app\src\main\res
