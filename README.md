@@ -1,3 +1,103 @@
+# 📋 **Semana 8 - Formulario y Registro de Asistencia**
+
+## **Descripción del Proyecto**
+
+**Semana 8** implementa un formulario de registro de asistencia para docentes y alumnos del desfile de San Pedrito, el 26 de junio. Este proyecto incluye componentes de **Material Design**, un **menú emergente (Popup)**, y la integración de un **WebView** para mostrar un sitio web dentro de la aplicación.
+
+**Finalidad del Proyecto:**
+- **Formulario de Registro:** Capturar los datos de los usuarios (docentes y alumnos).
+- **Material Design:** Incorporar los principios de diseño de Google para una mejor experiencia de usuario.
+- **Menú Contextual (Popup):** Implementar un menú emergente para opciones.
+- **WebView:** Mostrar un sitio web dentro de la aplicación.
+
+---
+
+## **1. Formulario de Información Personal**
+
+   - **Campos a Ingresar:**
+     - Código
+     - DNI
+     - Apellidos
+     - Nombres
+     - Correo Institucional
+     - Teléfono
+
+   **Vista previa del formulario:**
+   <p align="center">
+     <img src="S8_FormularioSanPedrito/app/src/imagenes/informacion-personal1.jpg" alt="Formulario 1" width="40%">
+     <img src="S8_FormularioSanPedrito/app/src/imagenes/informacion-personal2.jpg" alt="Formulario 2" width="40%">
+   </p>
+
+---
+
+## **2. Implementación de Material Design**
+
+   - **Características:**
+     - Utilización de componentes de **Material Design** para mejorar la interfaz de usuario.
+
+   **Vista previa de Material Design:**
+   <p align="center">
+     <img src="S8_FormularioSanPedrito/app/src/imagenes/material-design1.jpg" alt="Material Design" width="40%">
+   </p>
+
+---
+
+## **3. Menú Configuración (Popup)**
+
+   - **Objetivo:** Implementar un menú emergente (Popup) para opciones adicionales.
+
+   **Vista previa del menú emergente:**
+   <p align="center">
+     <img src="S8_FormularioSanPedrito/app/src/imagenes/opcion-configuracion1.jpg" alt="Opción Configuración 1" width="40%">
+     <img src="S8_FormularioSanPedrito/app/src/imagenes/opcion-configuracion2.jpg" alt="Opción Configuración 2" width="40%">
+   </p>
+
+---
+
+## **4. WebView - Mostrar Sitio Web**
+
+   - **Objetivo:** Mostrar un sitio web dentro de la aplicación utilizando un **WebView**.
+
+   **Vista previa del WebView:**
+   <p align="center">
+     <img src="S8_FormularioSanPedrito/app/src/imagenes/webview .jpg" alt="WebView" width="40%">
+   </p>
+
+---
+
+## **Tecnologías Utilizadas - Semana 8**
+
+- 🧩 Kotlin
+- 📱 Android Studio
+- 📦 Material Design
+- 🌐 WebView
+- 🖥️ Menú Emergente (Popup)
+
+---
+
+## **5. Registro de Asistencia**
+
+   - **Objetivo:** Formulario de registro de asistencia para docentes y alumnos del desfile de San Pedrito.
+
+   **Vista previa del formulario de registro:**
+   <p align="center">
+     <img src="S8_FormularioSanPedrito/app/src/imagenes/registro-docente.jpg" alt="Registro Docente" width="40%">
+   </p>
+
+---
+
+### **Resumen de imágenes de la Semana 8:**
+
+| Funcionalidad                  | Imagen(s)                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| 🧑‍💻 Información personal       | <img src="S8_FormularioSanPedrito/app/src/imagenes/informacion-personal1.jpg" width="40%"> &nbsp; <img src="S8_FormularioSanPedrito/app/src/imagenes/informacion-personal2.jpg" width="40%"> |
+| 🎨 Material Design              | <img src="S8_FormularioSanPedrito/app/src/imagenes/material-design1.jpg" width="40%"> |
+| ⚙️ Menú Configuración (Popup)   | <img src="S8_FormularioSanPedrito/app/src/imagenes/opcion-configuracion1.jpg" width="40%"> &nbsp; <img src="S8_FormularioSanPedrito/app/src/imagenes/opcion-configuracion2.jpg" width="40%"> |
+| 🌐 WebView                     | <img src="S8_FormularioSanPedrito/app/src/imagenes/webview.jpg" width="40%"> |
+| 📝 Registro de Asistencia       | <img src="S8_FormularioSanPedrito/app/src/imagenes/registro-docente.jpg" width="40%"> |
+
+---
+
 # 💻 **SharedPreferences - Proyecto Semana 9**
 
 ## **Descripción del Proyecto**
